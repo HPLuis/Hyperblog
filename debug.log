@@ -4,3 +4,4 @@
 [0217/100638.549:ERROR:settings.cc(266)] Settings version is not 1
 [0217/155928.330:ERROR:settings.cc(266)] Settings version is not 1
 [0217/155928.619:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: Se está cerrando la canalización. (0xE8)
+[0217/190307.096:ERROR:settings.cc(266)] Settings version is not 1
