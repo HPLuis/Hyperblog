@@ -18,5 +18,8 @@ niñita
 ♦Incluye ejemplos en Windows, Linux y Mac <br>
 ♦Disponible para todas las  <br>
 ♦Hecho por mi :D <br>
+♦Ejemplos variados para aprender de git <br>
+♦git stash sirve para guardar pequeños cambios mientras
+trabajamos en otra cosa y asi o perderlos <br>
 
 Y como un amable recordatorio: Este readme.md es un chiste. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
